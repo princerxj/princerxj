@@ -21,7 +21,7 @@ const princeRaj = {
 ```
 
 🔭 **Currently working on:** Building full-stack applications and solving DSA problems  
-🌱 **Currently learning:** Web3, AI ML and core CS Concepts  
+🌱 **Currently learning:** DevOps, AI ML and core CS Concepts  
 ⚡ **Fun fact:** When I'm not debugging code, I'm probably debugging life with memes!
 
 ---
@@ -64,7 +64,6 @@ Tools & Others
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princerxj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princerxj&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -93,8 +92,6 @@ Tools & Others
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-raj-209b40280/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/princerajtweets)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/princerxj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr273582@gmail.com)
 
 </div>
