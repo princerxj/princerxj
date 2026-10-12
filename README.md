@@ -10,6 +10,10 @@ Most of my time goes into Node.js, React and Python. I also solve DSA problems f
 A multi-agent blog studio where a Researcher, Writer and Editor (LangGraph) turn a topic into a polished article, and a human approves or sends back the work after research and after the draft.
 What I enjoyed: making the human review a real part of the workflow. Runs pause at an interrupt, survive a restart through SQLite checkpoints, and resume when you respond. It's three services (React, Express, FastAPI), and the browser only ever talks to Express.
 
+**[Career Copilot](https://github.com/princerxj/Career-Copilot)**
+Paste a job description and upload your resume, and it builds an interview report: match score, technical and behavioral questions with model answers, skill gaps, and a day-by-day prep plan. It can also generate a tailored, ATS-friendly resume PDF for that job.
+Stack: React, Express, MongoDB, Google Generative AI, Puppeteer.
+
 **[Lecture Lens](https://github.com/princerxj/Lecture-Lens)**
 Upload a lecture recording, get notes back. Whisper does the transcription and a Python pipeline does the summarizing.
 The part I enjoyed most: getting Node.js and Python to talk through child processes and stream live progress, without bringing in a message queue.
@@ -30,3 +34,7 @@ Java · JavaScript · Python · TypeScript · React · Node.js · Express · Fas
 ## Reach me
 
 [LinkedIn](https://www.linkedin.com/in/princerxj/) · pr273582@gmail.com
+
+---
+
+There's more in my [repositories](https://github.com/princerxj?tab=repositories), including mini projects and experiments. Have a look around.
